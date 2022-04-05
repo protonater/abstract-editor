@@ -1,0 +1,17 @@
+.logo {
+    width: auto;
+    height: auto;
+    border: none;
+    max-width: 100%;
+    vertical-align: middle;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: 'Work Sans', Arial, sans-serif;
+    line-height: 1.6;
+    word-wrap: break-word;
+}
+
+.siteLogo {
+    height: 50px;
+}

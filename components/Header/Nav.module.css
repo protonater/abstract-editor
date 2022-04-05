@@ -1,0 +1,38 @@
+.nav {
+    max-height: 55px;
+    background: #3078a6;
+    /* background: linear-gradient(195deg, rgb(183, 235, 185), rgb(119, 208, 123)), */
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.nav ul li a {
+    margin: 5px 15px;
+}
+
+.logo {
+    width: auto;
+    height: auto;
+    border: none;
+    max-width: 100%;
+    vertical-align: middle;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: 'Work Sans', Arial, sans-serif;
+    line-height: 1.6;
+    word-wrap: break-word;
+}
+
+.siteLogo {
+    height: 50px;
+}
